@@ -1,0 +1,37 @@
+.boton {background-color: #ffbdde;
+        font-size: 10px;
+        border: 2px solid #e25080;
+        border-radius: 5px;
+        padding: 10px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+}
+
+thead th{
+    width: 10%;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffe7f3;
+}
+
+table
+{
+    border:"1";
+    width:"80%";
+    border-collapse: collapse;
+    vertical-align: middle;
+}
+
+th, td {
+    
+    padding: 8px;
+  }
+
+tbody
+{
+    width: 10%;
+}
